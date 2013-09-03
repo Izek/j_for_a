@@ -1,4 +1,4 @@
-package chapter.one;
+package chapter_001;
 
 public class EchoText {
 
