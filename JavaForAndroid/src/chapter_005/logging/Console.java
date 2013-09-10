@@ -1,6 +1,7 @@
 package chapter_005.logging;
 
 class Console implements Logger {
+	@SuppressWarnings("unused")
 	private String dstName;
 
 	Console(String dstName) {
