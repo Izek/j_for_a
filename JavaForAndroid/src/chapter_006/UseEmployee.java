@@ -14,7 +14,7 @@ class Employee {
 
 public class UseEmployee {
 	public static void main(String[] args) {
-		TypeSafety emp = new TypeSafety();
+		Employee emp = new Employee();
 		emp.name = "John Doe";
 	}
 }
